@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Innocent586
+- 👋 Hi, I’m @rashmithachamikara
 - 🎮 I love game development
 - 👀 I’m interested in Web design
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JS, Jquery, PHP
+- 🌱 I’m currently learning JS, Node, Jquery, PHP, Java, Spring Boot, C++, Arduino
 - 🐍 Learning Python as well
 - 🎮 Practicing Unity for game development
 <!-- - 💞️ I’m looking to collaborate on  ... 
