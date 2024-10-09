@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rashmithachamikara
 - 🎮 I love game development
 - 👀 I’m interested in Web design
-- 🌱 I’m currently learning and working with JS, Node, React, Jquery, PHP, Java, Spring Boot, C++, Arduino
-- 🐍 Learning Python as well
+- 🌱 I’m currently learning and working with JS, Node, React, Jquery, PHP, Java, Spring Boot 
+- 🤖 Doing robotics with C++, Arduino
+- 🐍 Learning Python
 - 🎮 Practicing Unity for game development
 <!-- - 💞️ I’m looking to collaborate on  ... 
 - 📫 How to reach me ... -->
