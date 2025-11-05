@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @rashmithachamikara
 - 🎮 I love game development
-- 👀 I’m interested in Web design
-- 🌱 I’m currently learning and working with JS, Node, React, Jquery, PHP, Java, Spring Boot 
-- 🤖 Doing robotics with C++, Arduino
-- 🐍 Learning Python
-- 🎮 Practicing Unity for game development
+- 🌐 I’m interested in Web development
+- 🌱 I’m currently learning and working with C#, .NET, JS, Node, React, Next.js, jQuery, Java, Spring Boot, PHP, Laravel, and Python
+- ⚙️ Doing robotics with C++, Arduino, and ESP32
+- 🎮 Unity and GMS2 for game development
 <!-- - 💞️ I’m looking to collaborate on  ... 
-- 📫 How to reach me ... -->
+- 📫 How to reach me ... --> 
+
+Reach out: jrhchamikara@gmail.com
 
 <!---
 Innocent586/Innocent586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
